@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi
 
 I am a software developer based in the nothern parts of Sweden. 
 
