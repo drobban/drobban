@@ -1,6 +1,9 @@
 ### Hi
 I spend most of my time creating software in the northern parts of Sweden. My repositories are a playground of experiments where I explore new programming languages, tackle intriguing challenges, and build tools—including ones for the local dog club.
 
+## Yearly update
+![awesome](image.png)
+
 
 ## Alchemy4Elixir
 
