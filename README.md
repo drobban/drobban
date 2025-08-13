@@ -8,6 +8,7 @@ UmeDemo is a modular Elixir-based distributed demo environment where multiple Gi
 * FlightControl
 * SamSite
 * Aircraft
+
 interconnect via PubSub and BEAM concepts to showcase spawning actors, supervision, and real-time message passing across BEAM nodes.
 Designed as a teaching-focused playground, it favors clarity and interactivity over production structure.
 
