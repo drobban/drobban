@@ -3,14 +3,8 @@
 I spend most of my time creating software in the northern parts of Sweden. My repositories are a playground of experiments where I explore new programming languages, tackle intriguing challenges, and build tools—including ones for the local dog club.
 
 ## UmeDemo
-UmeDemo is a modular Elixir-based distributed demo environment where multiple Git-sourced dependencies
-* FlightTracker
-* FlightControl
-* SamSite
-* Aircraft
-
-interconnect via PubSub and BEAM concepts to showcase spawning actors, supervision, and real-time message passing across BEAM nodes.
-Designed as a teaching-focused playground, it favors clarity and interactivity over production structure.
+`ume_demo` is a modular Elixir-based distributed demo environment where multiple Git-sourced dependencies `FlightTracker`, `FlightControl`, `SamSite`, and `Aircraft` interconnect via PubSub and BEAM concepts to showcase spawning actors, supervision, and real-time message passing across BEAM nodes. 
+Designed as a teaching-focused playground, it favors clarity and interactivity over production structure. The current state of the system is visualized in real time through a browser, showing aircraft and SAM sites interacting with each other.
 
 ## Alchemy4Elixir
 
