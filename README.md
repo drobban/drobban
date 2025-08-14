@@ -8,4 +8,5 @@ Designed as a teaching-focused playground, it favors clarity and interactivity o
 
 ## Alchemy4Elixir
 
-Recently, I launched a project called Alchemy4Elixir.dev. It’s still in the experimental phase, but it’s live and open to anyone interested in solving a curated set of problems while learning Elixir. If you’re familiar with 4Clojure, you’ll recognize the approach I’m aiming for here.
+I launched a project called Alchemy4Elixir.dev. It’s still in the experimental phase, but it’s live and open to anyone interested in solving a curated set of problems while learning Elixir. If you’re familiar with 4Clojure, you’ll recognize the approach I’m aiming for here.
+You can contribute problems to be published in Alchemy4Elixir by committing to `alchemy_contrib`.
